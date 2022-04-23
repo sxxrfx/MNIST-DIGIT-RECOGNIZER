@@ -1,0 +1,10 @@
+numpy
+matplotlib
+Pillow
+streamlit
+streamlit_drawable_canvas
+scipy
+jupyter
+notebook
+nbconvert
+tk
