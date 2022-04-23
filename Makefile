@@ -67,6 +67,7 @@ model:
 setup:
 	python3 -m venv $(VENV)
 	$(PIP) install -r $(REQUIREMENTS)
+	mkdir $(MODEL_DIR)
 	source $(ACTIVATE)
 
 clean:
